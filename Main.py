@@ -12,6 +12,8 @@ while baddata == True:
 
 D = (b*b) - (4*a*c)
 
+
+
 if D>0:
     d = sqrt(D)
     x1 = ((-b)+d / (2 * a))
